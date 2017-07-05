@@ -9,7 +9,7 @@ name: FiseCoco
 description: FiseCoco's Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/FiseCoco/fisecoco.github.io/blob/master/images/logo.png
+avatar: https://github.com/FiseCoco/fisecoco.github.io/blob/master/images/logo.png?raw=true
 
 #
 # Flags below are optional
